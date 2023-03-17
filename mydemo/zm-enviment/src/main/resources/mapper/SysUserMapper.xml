@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.example.mapper.SysUserMapper">
+   <!-- <resultMap id="selectMap" type="org.example.entity.SysUserEntity">
+        <id column="id" property="id"/>
+        <result column="user_name" property="username"/>
+        <result column="department_name" property="departmentName"/>
+        <result column="pass_word" property="password"/>
+        <result column="header_url" property="headerUrl"/>
+        <result column="mobile" property="mobile"/>
+        <result column="email" property="email"/>
+        <result column="nick_name" property="nickname"/>
+        <result column="comp_id" property="compId"/>
+        <result column="unit_name" property="unitName"/>
+        <result column="id_card" property="idCard"/>
+        <result column="bind_range" property="bindRange"/>
+        <result column="age" property="age"/>
+        <result column="sex" property="sex"/>
+        <result column="keycloak_id" property="keycloakId"/>
+        <result column="im_user_name" property="imUserName"/>
+        <result column="aid" property="aid"/>
+        <result column="acode" property="acode"/>
+        <result column="aname" property="aname"/>
+        <result column="skill_level" property="skillLevel"/>
+        <result column="wechat" property="wechat"/>
+        <result column="department_id" property="departmentId"/>
+        <result column="entry_date" property="entryDate"/>
+        <result column="post" property="post"/>
+        <result column="create_time" property="createTime"/>
+        <result column="create_by" property="createBy"/>
+        <result column="update_by" property="updateBy"/>
+        <result column="update_time" property="updateTime"/>
+    </resultMap>-->
+
+</mapper>
